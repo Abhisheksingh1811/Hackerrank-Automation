@@ -9,6 +9,6 @@ Steps to run this project-
 2)Go to the main file and open it in the integrated terminal, I did it using WSL ubuntu.
 3)Now install the dependencies-
 nodejs version > 12 will be enough.
-cheerio module, which use chromium browser for automation work.  
+puppeteer module, which use chromium browser for automation work.  
 request module
 4)Run the main file in the opened integrated terminal and its done!
